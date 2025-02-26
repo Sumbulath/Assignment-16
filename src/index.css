@@ -1,0 +1,28 @@
+.productImage{
+  height: 300px;
+  width: 300px;
+  object-fit: contain;
+}
+.ButtonGroup{
+  display: flex;
+}
+.Headercontainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.footer-container{
+  
+    
+    
+    margin-bottom: -30px
+    
+}
+.proimage{
+  height: 400px;
+  width: 400px;
+  object-fit: contain;
+  
+  
+}
